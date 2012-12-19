@@ -17,6 +17,6 @@ maximum number of features used is 40.
 
 To run the program, simply type:
 
-python nearest_neighbor.py [data-set.txt]
+    python nearest_neighbor.py [data-set.txt]
 
 then follow the prompts to select the search algorithm
